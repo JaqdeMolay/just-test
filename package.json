@@ -1,0 +1,26 @@
+{
+  "name": "new-package",
+  "version": "1.0.0",
+  "description": "deneme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "selam": "echo `Selamınaleyki`",
+    "start": "node index.js "
+  },
+  "keywords": [
+    "denemeipaket"
+  ],
+  "author": "Çevik Çukurova",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.12.1",
+    "nodemailer": "^6.5.0",
+    "simple-is": "^0.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JaqdeMolay/just-test.git"
+  }
+}
+
